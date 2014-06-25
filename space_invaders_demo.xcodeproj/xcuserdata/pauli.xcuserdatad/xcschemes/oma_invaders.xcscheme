@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5A9741B21821862500615739"
-               BuildableName = "space_invaders.app"
+               BuildableName = "space_invaders_demo.app"
                BlueprintName = "space_invaders_demo"
                ReferencedContainer = "container:space_invaders_demo.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5A9741DA1821862500615739"
-               BuildableName = "space_invadersTests.xctest"
+               BuildableName = "space_invaders_demoTests.xctest"
                BlueprintName = "space_invaders_demoTests"
                ReferencedContainer = "container:space_invaders_demo.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5A9741B21821862500615739"
-            BuildableName = "space_invaders.app"
+            BuildableName = "space_invaders_demo.app"
             BlueprintName = "space_invaders_demo"
             ReferencedContainer = "container:space_invaders_demo.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5A9741B21821862500615739"
-            BuildableName = "space_invaders.app"
+            BuildableName = "space_invaders_demo.app"
             BlueprintName = "space_invaders_demo"
             ReferencedContainer = "container:space_invaders_demo.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5A9741B21821862500615739"
-            BuildableName = "space_invaders.app"
+            BuildableName = "space_invaders_demo.app"
             BlueprintName = "space_invaders_demo"
             ReferencedContainer = "container:space_invaders_demo.xcodeproj">
          </BuildableReference>
